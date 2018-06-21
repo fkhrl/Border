@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="WooCommerce_files/intl.css" type="text/css"?>
+<parsererror xmlns="http://www.mozilla.org/newlayout/xml/parsererror.xml">XML Parsing Error: not well-formed
+Location: https://pixelgrade.com/demos/border/wp-content/themes/border-git/assets/fonts/woocommerce/WooCommerce.svg
+Line Number 12, Column 76:<sourcetext>	"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL",
+----------------------------------------------------------------------------------^</sourcetext></parsererror>
